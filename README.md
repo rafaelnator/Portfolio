@@ -1,2 +1,9 @@
 # Portfolio
-Este repossitorio tem o objetivo de mostrar tudo sobre mim, junto com o s projetos do GitHub
+Este repossitorio tem o objetivo demonstrar todos **projetos**, todas **habilidades** e falar um pouco de quem eu sou.
+
+# Introdução
+Na Introdução temos um bem-vindo, onde está escrito enter printf 's dentro de uma função. Logo do lado direito está uma imagem minha.
+
+<div align="center">
+  <img alt="Imagem da Introdução do Portfolo" src="./img-readme/" heght="400px"/>
+</div>
