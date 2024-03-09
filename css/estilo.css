@@ -126,3 +126,120 @@ body{
     margin-left: 3rem;
     margin-top: 1rem;
 }
+
+.sobre{
+    background-color: #68B9CC;
+}
+
+.corpo-sobre{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.sobre-texto p{
+    width: 55rem;
+}
+
+.titulo-sobre-texto{
+    margin: 2rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 6vh;
+}
+
+.sobre-texto{
+    margin: 2rem;
+    margin-left: 10rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vh;
+    width: 75%;
+    height: 75%;
+}
+
+.sobre-texto p{
+  -moz-animation-duration: 2.5s;
+  -webkit-animation-duration: 2.5s;
+  animation-duration: 2.5s;
+  -moz-animation-name: bounce;
+  -webkit-animation-name: bounce;
+  animation-name: bounce;
+  text-align: justify;
+  width: 100%;
+}
+
+@-moz-keyframes bounce {
+  from {
+    margin-top: 100%;
+    width: 100%;
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}
+
+@-webkit-keyframes bounce {
+  from {
+    margin-top: 100%;
+    width: 100%;
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}
+
+@keyframes bounce {
+  from {
+    margin-top: 100%;
+    width: 100%;
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}
+
+/*
+-------------------------------------------------------------
+
+
+
+.sobre-texto p{
+    animation-duration: 3s;
+    animation-name: bounce;
+}
+
+@keyframes bounce {
+    from {
+      margin-top: 100%;
+      width: 100%;
+    }
+  
+    to {
+      margin-top: 0%;
+      width: 100%;
+    }
+}
+*/
+
+.curriculo-pdf{
+    margin: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-size: 5vh;
+}
+
+.curriculo-pdf img{
+    margin-left: 8rem;
+    margin-top: 2rem;
+    width: 30%;
+}
