@@ -207,29 +207,6 @@ body{
   }
 }
 
-/*
--------------------------------------------------------------
-
-
-
-.sobre-texto p{
-    animation-duration: 3s;
-    animation-name: bounce;
-}
-
-@keyframes bounce {
-    from {
-      margin-top: 100%;
-      width: 100%;
-    }
-  
-    to {
-      margin-top: 0%;
-      width: 100%;
-    }
-}
-*/
-
 .curriculo-pdf{
     margin: 2.5rem;
     justify-content: center;
