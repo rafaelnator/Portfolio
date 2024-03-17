@@ -18,3 +18,10 @@ Na seção Sobre temos um texque que conta um pouco sobre mim e também escolhi 
 <div align="center">
   <img alt="Imagem da Sobre do Portfolo" src="https://github.com/rafaelnator/Portfolio/blob/main/img-readme/img-sobre-2.png" heght="400px"/>
 </div>
+
+# Habilidades
+Nessa seção eu vou algumas das minha Habilidades de programação.
+
+<div align="center">
+  <img alt="Imagem da Sobre do Portfolo" src="https://github.com/rafaelnator/Portfolio/blob/main/img-readme/img-habilidade.png" heght="400px"/>
+</div>
