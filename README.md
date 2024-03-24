@@ -25,3 +25,10 @@ Nessa seção eu vou algumas das minha Habilidades de programação.
 <div align="center">
   <img alt="Imagem da Sobre do Portfolo" src="https://github.com/rafaelnator/Portfolio/blob/main/img-readme/img-habilidades.png" heght="400px"/>
 </div>
+
+# Projetos
+Nessa seção mostra alguns projetos que já participei ou que eu mesmo estou fazendo ou fiz.
+
+<div align="center">
+  <img alt="Imagem da Sobre do Portfolo" src="https://github.com/rafaelnator/Portfolio/blob/main/img-readme/img-projeto.png" heght="400px"/>
+</div>
